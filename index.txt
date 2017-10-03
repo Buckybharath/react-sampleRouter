@@ -1,1 +1,2 @@
-index.txt in master file
+index.txt in maamu file
+
